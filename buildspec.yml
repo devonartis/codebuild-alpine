@@ -3,8 +3,8 @@ version: 0.2
 phases:
   install:
     commands:
-      - echo "Building Hello world"
-      - docker build -t helloworld .
+      - echo Building Hello world"
+      - docker build -t helloworldddd .
   build:
     commands:
       - docker images
