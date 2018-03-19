@@ -1,3 +1,3 @@
 FROM alpine
  
-RUN ls - al
+RUN ls
